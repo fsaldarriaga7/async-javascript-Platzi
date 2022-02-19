@@ -1,0 +1,24 @@
+{
+  "name": "asyncjavascript",
+  "version": "1.0.0",
+  "description": "Ejercicio práctico de Asincronismo en Javascript, del curso de Platzi",
+  "main": "scr/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsaldarriaga7/async-javascript-Platzi.git"
+  },
+  "keywords": [
+    "Callbacks",
+    "Promises",
+    "Async"
+  ],
+  "author": "saldarriagafelipe3@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsaldarriaga7/async-javascript-Platzi/issues"
+  },
+  "homepage": "https://github.com/fsaldarriaga7/async-javascript-Platzi#readme"
+}

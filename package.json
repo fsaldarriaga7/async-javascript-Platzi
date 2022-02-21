@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fsaldarriaga7/async-javascript-Platzi/issues"
   },
-  "homepage": "https://github.com/fsaldarriaga7/async-javascript-Platzi#readme"
+  "homepage": "https://github.com/fsaldarriaga7/async-javascript-Platzi#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
